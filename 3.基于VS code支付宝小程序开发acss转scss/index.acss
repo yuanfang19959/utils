@@ -1,0 +1,6 @@
+.abc {
+  color: red;
+}
+.abc .abc div {
+  background-color: red;
+}
